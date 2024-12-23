@@ -1,4 +1,6 @@
+<!--hide-->
 # ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Todo List API
+<!--endhide-->
 
 We are going to build one API to manage tasks (Todo List). Similar to this api: [http://assets.breatheco.de/apis/fake/todos/](http://assets.breatheco.de/apis/fake/todos/)
 
